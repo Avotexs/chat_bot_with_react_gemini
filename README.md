@@ -5,8 +5,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-npm run start:backend   to start the backend that get the API from gemini.
-npm run start:frontend  to start the chat-bot interface.
+`npm run start:backend`   to start the backend that get the API from gemini.
+`npm run start:frontend`  to start the chat-bot interface.
 
 
 Runs the app in the development mode.\
