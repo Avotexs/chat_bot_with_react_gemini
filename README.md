@@ -1,3 +1,6 @@
+## Get your own Gemini API from here
+
+[https://ai.google.dev/gemini-api/docs/api-key]
 
 ## Available Scripts
 
